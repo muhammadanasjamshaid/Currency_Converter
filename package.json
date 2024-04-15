@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "name": "@anassheikh/currency_converter",
+  "description": "This is a Simple Currency Converter",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {"access": "public"},
+  "bin": "index.js",
+  
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Anas Jasmhaid",
+  "license": "ISC"
+}
